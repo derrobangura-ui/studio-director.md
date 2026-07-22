@@ -1,0 +1,19 @@
+character_identity/
+├── CIP.md                  # Character Identity Package
+├── permanent_features.md
+├── facial_landmarks.md
+├── body_proportions.md
+├── color_lock.md
+├── identity_prompt.md
+├── negative_prompts.md
+├── continuity_rules.md
+├── validation_checklist.md
+└── reference_images/
+    ├── front.png
+    ├── left_profile.png
+    ├── right_profile.png
+    ├── three_quarter_left.png
+    ├── three_quarter_right.png
+    ├── full_body_front.png
+    ├── expression_neutral.png
+    └── silhouette.png
